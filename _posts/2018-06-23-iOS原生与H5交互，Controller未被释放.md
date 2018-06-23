@@ -35,8 +35,8 @@ tag: iOS
 
 	b、设置一个中间层来，来实现addScriptMessageHandler方法对传入参数弱引用，达到消除循环引用的问题,具体代码如下2图，具体的也就不说了
 
-		![image](/assets/images/post/2018/06/20180623163825.png)
+![image](/assets/images/post/2018/06/20180623163825.png)
 
-		![image](/assets/images/post/2018/06/20180623163843.png)
+![image](/assets/images/post/2018/06/20180623163843.png)
 
 
