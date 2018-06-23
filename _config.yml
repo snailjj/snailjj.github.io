@@ -1,0 +1,53 @@
+# Basic
+title: snailjj
+subtitle: please no bb,just do
+welcome_message: personal independence of conduct
+
+url: "http://www.snailjj.com"
+
+permalink: /:year/:month/:title/
+
+# # Format
+# highlighter: rouge
+# # markdown: redcarpet
+# # markdown: blueCloth
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+blog_button:
+    title: Blog
+    description: Interview Blog
+
+nav:
+    - {title: About, description: About me, url: '/aboutme'}
+    - {title: Tags, description: Tag to read, url: '/tags'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    # disqus: onevcat
+    duoshuo: snail
+# Social
+social:
+    github: snailjj
+    twitter: snailjj
+    gplus: 104239864044410947977
+    mail: snail@snailjj.com
+    facebook: 100011402812624
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: eab19a77dc9f59d3c6dc18178d2774ee 
+
+# Google Analytics
+ga:
+    id: UA-89266432-1
+    host: www.snailjj.com
