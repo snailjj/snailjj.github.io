@@ -47,6 +47,10 @@ social:
 baidu:
     id: eab19a77dc9f59d3c6dc18178d2774ee 
 
+# 腾讯h5统计id
+tencent:
+    id: 500646761
+
 # Google Analytics
 ga:
     id: UA-89266432-1
