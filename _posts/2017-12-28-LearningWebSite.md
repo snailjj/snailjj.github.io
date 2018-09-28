@@ -21,6 +21,8 @@ iOS开发软件的官方地址(多版本):[https://developer.apple.com/download/
 
 富文本：[https://www.jianshu.com/p/9ee12b7e2709](https://www.jianshu.com/p/9ee12b7e2709)
 
+[https://www.theiphonewiki.com](https://www.theiphonewiki.com)
+
 
 Mac 软件
 
